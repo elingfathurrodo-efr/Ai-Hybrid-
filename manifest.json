@@ -1,0 +1,14 @@
+{
+  "name": "AI Hybrid",
+  "short_name": "AI Hybrid",
+  "description": "Berbagai AI dalam 1 genggaman yang bisa diajak diskusi bersama",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07070f",
+  "theme_color": "#07070f",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "categories": ["productivity", "utilities"]
+}
